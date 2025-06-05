@@ -6,15 +6,15 @@ To gain actionable insights from automotive company data using data analysis and
 
 **##Dataset** :-
 The dataset used in this project is named bright_automotive_company.csv, and contains various attributes related to the company's operations, including categorical and numerical features.
-**
-##Analysis Performed** :-
+
+**##Analysis Performed** :-
 Data loading and overview
 Data cleaning and preprocessing
 Univariate analysis using count plots
 Data distribution visualization
 Categorical feature analysis
-**
-##Visualizations** :-
+
+**##Visualizations** :-
 Bar plots, count plots, and other charts were used to identify trends and frequency distributions in categorical data.
 
 **##Contributions** :-
